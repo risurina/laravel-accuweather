@@ -1,7 +1,12 @@
-# Laravel - Accu Weather Integration
+## Laravel - Accu Weather Integration
 
-## Quick Local Machine Setup
+### Application Req:
+* [PHP v8.1](https://www.php.net/)
+* [Composer v2](https://getcomposer.org/)
+* [Nodejs v16](https://nodejs.org/en/)
 
+### Quick Local Machine Setup
+```
     # clone repository
     git clone https://github.com/risurina/laravel-accuweather
 
@@ -27,3 +32,4 @@
 
     # run server
     php artisan serve
+ ```
