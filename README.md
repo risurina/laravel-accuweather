@@ -5,6 +5,11 @@
 * [Composer v2](https://getcomposer.org/)
 * [Nodejs v16](https://nodejs.org/en/)
 
+### Tech Used
+* PHP\Laravel
+* Laravel Jetstream
+* Vuejs
+
 ### Quick Local Machine Setup
 ```
     # clone repository
